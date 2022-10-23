@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'm Joshua 19yo, a beginner developer from Rastatt, Germany.</h3>
+<h3 align="center">I'm Joshua 19yo, a beginner developer living near Offenburg, Germany.</h3>
 
 - :heart: loves open-source projects
 - :penguin: Windows 11 (debloated) and Debian bookworm user
