@@ -2,7 +2,7 @@
 <h3 align="center">I'm Joshua 20yo, a beginner developer living near Offenburg, Germany.</h3>
 
 - :heart: loves open-source projects
-- :penguin: Windows 11 (debloated) and Debian bookworm user
+- :penguin: Windows 11 (debloated) and Debian trixie user
 - 📫 How to reach me: [joshua@razuuu.de](mailto:joshua@razuuu.de)
 - :key: GPG key: [0F68773E8BFEE120A619F1430FAB458E432553C2](https://raw.githubusercontent.com/razuuu/razuuu/master/gpg.key)
 - How to reach me: <a rel="me" href="https://www.razuuu.de">Contact options</a>
