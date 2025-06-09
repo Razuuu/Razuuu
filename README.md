@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'm Joshua 21yo, a beginner developer living near Offenburg, Germany.</h3>
+<h3 align="center">I'm Joshua 22yo, a beginner developer living near Offenburg, Germany.</h3>
 
 - :heart: loves open-source projects
 - :penguin: Arch/EndeavourOS user
